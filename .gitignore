@@ -1,11 +1,8 @@
 /bbs/application/config/database.php
-/bbs/application/config/config.php
 /bbs/logs/*
 
 /sns/application/config/database.php
-/sns/application/config/config.php
 /sns/logs/*
 
 /todo/application/config/database.php
-/todo/application/config/config.php
 /todo/logs/*
