@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'jakeleanco.ipdisk.co.kr';
-$db['default']['username'] = 'ci_book';
-$db['default']['password'] = 'Happy1234!';
+$db['default']['hostname'] = '';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
 
 $db['default']['database'] = 'todo';
 $db['default']['dbdriver'] = 'mysql';
